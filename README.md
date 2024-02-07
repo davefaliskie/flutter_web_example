@@ -1,10 +1,10 @@
-# flutter_web_example
+# Flutter Web Example
 
 Flutter project configured for deployment on the web through GitHub Pages and a custom domain.
 
 [See this repo for actual hosted project](https://github.com/davefaliskie/flutter-website)
 
-## Deploying on Web
+### Deploying on Web
 
 ```
 make deploy-web
@@ -14,7 +14,13 @@ make deploy-web
 
 [![Watch the video](https://img.youtube.com/vi/iOra0bxlWdE/maxresdefault.jpg)](https://youtu.be/iOra0bxlWdE)
 
-## CORS Settings For AWS S3
+# Fix Image Issues With Flutter Web
+
+### Watch The Video
+
+[![Watch the video](https://img.youtube.com/vi/X8UR4PCukqA/maxresdefault.jpg)](https://youtu.be/X8UR4PCukqA)
+
+### CORS Settings For AWS S3
 
 ```
 [
